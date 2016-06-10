@@ -11,7 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            Console.WriteLine("Hallo 10FI5H");
+            Console.WriteLine("Hallo 10FI5Htest test test ");
             Console.WriteLine("Bitte druecken Sie eine beliebige Taste um das Programm zu beenden.");
             Console.WriteLine();
             Console.ReadKey();
